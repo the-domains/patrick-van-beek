@@ -2,6 +2,7 @@ name: Patrick van Beek
 favicon: null
 layout_spectrum: 0.5023974839132279
 typography_spectrum: 0.49518176750279963
+title: This is my site
 cta:
   domain: null
   bucket: null
